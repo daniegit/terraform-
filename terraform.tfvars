@@ -1,0 +1,8 @@
+storage        = "20"
+engine         = "postgres"
+identifier     = "dev-db"
+engine_version = "13"
+instance_class = "db.t3.medium"
+name           = "ntweeklydb001"
+username       = "dbadmin1"
+password       = "jjetch2022"
